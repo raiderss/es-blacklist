@@ -1,6 +1,6 @@
 fx_version "adamant"
 
--- Trigger Protection / Support
+-- Protection / Support
 -- discord.gg/EkwWvFS
 
 game "gta5"
