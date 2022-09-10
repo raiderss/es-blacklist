@@ -44,7 +44,6 @@ AddEventHandler(
 )
 
 function notAdmin(steam, license)
-    print(steam, license)
     for k,v in pairs(Config.BypassList) do
         if v == steam or v == license then
         return false
